@@ -17,7 +17,6 @@ chardet==4.0.0
 charset-normalizer==2.1.0
 click==8.0.3
 clip-anytorch==2.4.0
-cloud-init==22.2
 CoCa-pytorch==0.0.6
 colorama==0.4.4
 command-not-found==0.3
