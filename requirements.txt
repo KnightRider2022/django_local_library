@@ -59,3 +59,4 @@ ssh-import-id==5.11
 systemd-python==234
 Twisted==22.1.0
 urllib3==1.26.5
+whitenoise==6.2.0
